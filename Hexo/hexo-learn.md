@@ -1,8 +1,6 @@
 # Hexo学习资源
-```
-△Hexo中文网：https://hexo.io/zh-cn/docs/index.html
-△npmjs指导：https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally
-```
+[Hexo中文网](https://hexo.io/zh-cn/docs/index.html) 
+[npmjs指导](https://docs.npmjs.com/resolving-eacces-permissions-errors-when-installing-packages-globally)
 
 # 技术工具
 ```
