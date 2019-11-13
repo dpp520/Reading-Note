@@ -1,6 +1,6 @@
 # git学习资源
 ```
-△廖雪峰git教程：https://www.liaoxuefeng.com/wiki/896043488029600
+△[廖雪峰git教程](https://www.liaoxuefeng.com/wiki/896043488029600)
 △git官网：https://git-scm.com/
 ```
 
