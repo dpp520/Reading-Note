@@ -31,6 +31,15 @@
 
 # Hexo命令
 ```
-△Hexo指定文件夹中新建所需要的文件：hexo init <folder>
+Hexo指定文件夹中新建所需要的文件：hexo init <folder>
+Hexo指定文件夹中新建所需要的文件：hexo init <folder>
+新建一篇文章：hexo new [layout] <title>
+生成静态文件：hexo generate
+发表草稿：hexo publish [layout] <filename>
+启动服务器：hexo server
+部署网站：hexo deploy
+清除缓存文件 (db.json) 和已生成的静态文件 (public)：hexo clean
+列出网站资料：hexo list <type>
+显示 Hexo 版本：hexo version
 ```
 
